@@ -1,0 +1,18 @@
+*{ 
+    max-height: fit-content;
+}
+.title{
+    text-align: center;
+}
+#rush{
+    color: rgb(255, 153, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#subtitle{
+    text-transform: uppercase;
+    text-decoration: overline underline;
+    font-family: monospace;
+}
+.botoes{
+    text-align: center;
+}
