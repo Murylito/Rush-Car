@@ -4,9 +4,10 @@
 .title{
     text-align: center;
 }
-#rush{
+.rush{
     color: rgb(255, 153, 0);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 #subtitle{
     text-transform: uppercase;
@@ -14,5 +15,35 @@
     font-family: monospace;
 }
 .botoes{
-    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(255, 153, 0);
+    font-weight: bolder;
+    background-color: black;
+    
+
+}
+#img{
+    width: 85px;
+    position: relative;
+    left: 15%;
+    position: relative;
+    
+}
+#div{
+    position: relative;
+    left: 24%;
+}
+#section{
+    position: relative;
+    left: 15%
+}
+.botoes:hover{
+    color: black;
+    background-color: rgb(255, 153, 0);
+}
+#destaques{
+    position: relative;
+    left: 15%;
+    color: black;
 }
